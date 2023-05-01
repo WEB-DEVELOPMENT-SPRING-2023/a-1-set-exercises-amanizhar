@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aman's Pasta Recipe</title>
+</head>
+<body>
+	<h1 style="color:MediumSeaGreen;">Aman's Pasta Recipe</h1>
+
+	<p>Aman's special pasta recipe which is quick , healthy and appetizing.</p>
+
+	<h2>Ingredients</h2>
+	<ul>
+		<li style="background-color:Tomato;">1Kg of pasta</li>
+		<li style="background-color:Orange;">500 grams of chopped up chicken breast</li>
+		<li style="background-color:SlateBlue;">Salt , Pepper and Garlic</li>
+            <li style="background-color:Violet;">Veggies such as Capsicum , mushroom and cilentro</li>
+		<li style="background-color:Orange;">200 grams of cheese</li>
+            <li style="background-color:DodgerBlue;">1/4 cup of oil</li>
+	</ul>
+
+	<h2>Method</h2>
+	<ol>
+		<li style="background-color:Gray;">Boil a pot filled with Salted water.</li>
+		<li style="background-color:Gray;">Put the pasta in the pot and cook it for 20 minutes.</li>
+		<li style="background-color:Gray;">In a pan , heat the oil over medium heat.</li>
+		<li style="background-color:Gray;">Add in the chicken , Spices and the veggies.</li>
+		<li style="background-color:Gray;">When the pasta is done, reserve 1/2 cup of the pasta water and drain the rest.</li>
+		<li style="background-color:Gray;">Add the pasta to the pan.</li>
+		<li style="background-color:Gray;">Add the reserved pasta water and cheese.</li>
+		<li style="background-color:Gray;">Stir until the sauce is creamy and the cheese is melted.</li>
+		<li style="background-color:Gray;">Season with salt and pepper to taste.</li>
+		<li style="background-color:Gray;">Serve hot.</li>
+	</ol>
+</body>
+</html>
