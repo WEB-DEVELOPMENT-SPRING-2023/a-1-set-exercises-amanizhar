@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aman's Petrol Calculator</title>
+    <link rel="stylesheet" href="petrol.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Aman's Petrol Calculator</h1>
+      <form>
+        <label for="price">Price per liter:</label>
+        <input type="number" step="0.01" min="0" id="cost" value="3.05">
+        <br>
+        <label for="liters">Number of liters purchased:</label>
+        <input type="number" step="0.01" min="0" id="liters" value="0">
+        <br>
+        <button type="button" id="calculate">Calculate</button>
+      </form>
+      <p id="total-cost"></p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
